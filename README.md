@@ -1,5 +1,13 @@
 # Slack Bot
 
+## Description
+
+The Slack Bot practice via Golang
+
+## Feature
+
+- [x] Get the random food from Google Sheets
+
 ## Prerequisite
 
 ### Install the Slack Bot

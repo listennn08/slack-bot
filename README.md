@@ -78,7 +78,7 @@ make clean
 
 ```bash
 # Build the image
-docker build -t slack-bot:lastest .
+docker build -t slack-bot:latest .
 
 # Run the docker container
 docker run -d --env-file .env slack-bot
